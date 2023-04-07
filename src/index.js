@@ -1,7 +1,7 @@
 import SimpleLightbox from 'simplelightbox';
-	import 'simplelightbox/dist/simple-lightbox.min.css';
+import 'simplelightbox/dist/simple-lightbox.min.css';
 	
-	import { FetcherOfImages } from './js/fetchImages';
+//	import { FetcherOfImages } from './js/fetchImages';
 	
 	import { Notify } from 'notiflix/build/notiflix-notify-aio';
 	import 'notiflix/dist/notiflix-notify-aio-3.2.6.min.js';
